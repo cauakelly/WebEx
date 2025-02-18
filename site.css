@@ -1,0 +1,30 @@
+.container {
+  background-color: rgb(56, 7, 72);
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  background-color: yellow;
+  color: aquamarine;
+  width: 129px;
+  height: 167px;
+  font-size: 100px;
+}
+
+.card {
+  background-color: rgb(112, 22, 142);
+  margin-right: 35%;
+  margin-left: 35%;
+  margin-top: 3%;
+  height: 499px;
+}
+
+button:hover {
+  background-color: rgb(112, 22, 142);
+  color: yellow;
+}
+
+.botao {
+  margin-left: 30px;
+}
